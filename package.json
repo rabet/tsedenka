@@ -1,0 +1,16 @@
+{
+  "name": "tsedenka",
+  "version": "1.0.0",
+  "description": "Tibor Sedenka",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "cat index.json"
+  },
+  "keywords": [
+    "person",
+    "contact"
+  ],
+  "main": "./index.json",
+  "author": "Tibor Sedenka",
+  "license": "ISC"
+}
